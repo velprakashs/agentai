@@ -1,0 +1,26 @@
+StudentID,Name,Department,Year,Email,Phone,Attendance,Python,DSA,AI,Overall,Placement
+STU001,Arjun Kumar,CSE,2nd,arjun@example.com,9000000001,87%,82,76,91,83,Eligible
+STU002,Priya Sharma,IT,2nd,priya@example.com,9000000002,92%,91,88,94,91,Eligible
+STU003,Rahul Raj,ECE,2nd,rahul@example.com,9000000003,74%,68,72,79,73,Not Eligible
+STU004,Sneha Devi,CSE,2nd,sneha@example.com,9000000004,95%,88,92,96,92,Eligible
+STU005,Vikram Singh,AIDS,2nd,vikram@example.com,9000000005,81%,75,81,84,80,Eligible
+STU006,Divya S,IT,2nd,divya@example.com,9000000006,89%,84,79,88,84,Eligible
+STU007,Karthik M,EEE,2nd,karthik@example.com,9000000007,69%,72,65,70,69,Not Eligible
+STU008,Aishwarya R,CSE,2nd,aishwarya@example.com,9000000008,91%,95,89,93,92,Eligible
+STU009,Mohammed Faiz,IT,2nd,faiz@example.com,9000000009,85%,78,86,81,82,Eligible
+STU010,Keerthana P,ECE,2nd,keerthana@example.com,9000000010,88%,81,77,85,81,Eligible
+STU011,Manoj K,CSE,2nd,manoj@example.com,9000000011,76%,70,74,78,74,Not Eligible
+STU012,Nandhini V,AIDS,2nd,nandhini@example.com,9000000012,94%,90,93,89,91,Eligible
+STU013,Sanjay Kumar,IT,2nd,sanjay@example.com,9000000013,83%,73,80,86,80,Eligible
+STU014,Harini S,CSE,2nd,harini@example.com,9000000014,97%,94,96,95,95,Eligible
+STU015,Ashwin R,ECE,2nd,ashwin@example.com,9000000015,79%,77,71,75,74,Not Eligible
+STU016,Meena L,IT,2nd,meena@example.com,9000000016,90%,86,84,90,87,Eligible
+STU017,Dinesh P,EEE,2nd,dinesh@example.com,9000000017,84%,69,76,80,75,Eligible
+STU018,Fathima N,CSE,2nd,fathima@example.com,9000000018,93%,89,91,94,91,Eligible
+STU019,Gokul S,AIDS,2nd,gokul@example.com,9000000019,78%,71,79,73,74,Not Eligible
+STU020,Lavanya R,IT,2nd,lavanya@example.com,9000000020,86%,83,87,85,85,Eligible
+STU021,Surya M,CSE,2nd,surya@example.com,9000000021,82%,79,75,82,79,Eligible
+STU022,Janani K,ECE,2nd,janani@example.com,9000000022,96%,92,90,97,93,Eligible
+STU023,Naveen B,IT,2nd,naveen@example.com,9000000023,72%,65,70,68,68,Not Eligible
+STU024,Reshma P,AIDS,2nd,reshma@example.com,9000000024,89%,87,82,90,86,Eligible
+STU025,Vignesh R,CSE,2nd,vignesh@example.com,9000000025,80%,76,78,83,79,Eligible
